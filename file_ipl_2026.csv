@@ -1,0 +1,31 @@
+match_id,team1,team2,venue,city,winner,player_of_match,team1_score,team2_score,season
+1,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,Mumbai,Mumbai Indians,Rohit Sharma,185,178,2026
+2,Royal Challengers Bengaluru,Kolkata Knight Riders,M Chinnaswamy Stadium,Bengaluru,Kolkata Knight Riders,Andre Russell,172,175,2026
+3,Gujarat Titans,Rajasthan Royals,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,Shubman Gill,198,180,2026
+4,Delhi Capitals,Punjab Kings,Arun Jaitley Stadium,Delhi,Punjab Kings,Shikhar Dhawan,165,168,2026
+5,Sunrisers Hyderabad,Lucknow Super Giants,Rajiv Gandhi Stadium,Hyderabad,Sunrisers Hyderabad,Heinrich Klaasen,201,194,2026
+6,Chennai Super Kings,Rajasthan Royals,MA Chidambaram Stadium,Chennai,Chennai Super Kings,Ruturaj Gaikwad,189,170,2026
+7,Mumbai Indians,Gujarat Titans,Wankhede Stadium,Mumbai,Gujarat Titans,Rashid Khan,160,162,2026
+8,Kolkata Knight Riders,Delhi Capitals,Eden Gardens,Kolkata,Kolkata Knight Riders,Sunil Narine,210,205,2026
+9,Punjab Kings,Royal Challengers Bengaluru,PCA Stadium,Mohali,Royal Challengers Bengaluru,Virat Kohli,176,180,2026
+10,Lucknow Super Giants,Chennai Super Kings,BRSABV Ekana Stadium,Lucknow,Chennai Super Kings,MS Dhoni,154,158,2026
+11,Rajasthan Royals,Sunrisers Hyderabad,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,Yashasvi Jaiswal,193,185,2026
+12,Gujarat Titans,Kolkata Knight Riders,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,Shubman Gill,abc,181,2026
+13,Delhi Capitals,Mumbai Indians,Arun Jaitley Stadium,Delhi,Mumbai Indians,Jasprit Bumrah,149,150,2026
+14,Chennai Super Kings,Punjab Kings,MA Chidambaram Stadium,Chennai,Chennai Super Kings,Ravindra Jadeja,187,160,2026
+15,Royal Challengers Bengaluru,Sunrisers Hyderabad,M Chinnaswamy Stadium,Bengaluru,Sunrisers Hyderabad,Travis Head,166,196,2026
+16,Lucknow Super Giants,Rajasthan Royals,BRSABV Ekana Stadium,Lucknow,Rajasthan Royals,Sanju Samson,171,175,2026
+17,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Kolkata,Mumbai Indians,Suryakumar Yadav,202,205,2026
+18,Punjab Kings,Gujarat Titans,PCA Stadium,Mohali,Gujarat Titans,Rashid Khan,168,169,2026
+19,Sunrisers Hyderabad,Delhi Capitals,Rajiv Gandhi Stadium,Hyderabad,Sunrisers Hyderabad,Pat Cummins,188,170,2026
+20,Rajasthan Royals,Royal Challengers Bengaluru,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,Yashasvi Jaiswal,192,188,2026
+21,Mumbai Indians,Lucknow Super Giants,Wankhede Stadium,Mumbai,Mumbai Indians,Rohit Sharma,214,190,2026
+22,Chennai Super Kings,Kolkata Knight Riders,MA Chidambaram Stadium,Chennai,Chennai Super Kings,Ruturaj Gaikwad,xyz,172,2026
+23,Gujarat Titans,Sunrisers Hyderabad,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,Shubman Gill,205,199,2026
+24,Delhi Capitals,Rajasthan Royals,Arun Jaitley Stadium,Delhi,Rajasthan Royals,Jos Buttler,166,170,2026
+25,Punjab Kings,Mumbai Indians,PCA Stadium,Mohali,Mumbai Indians,Hardik Pandya,183,187,2026
+26,Royal Challengers Bengaluru,Chennai Super Kings,M Chinnaswamy Stadium,Bengaluru,,,175,170,2026
+27,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,Kolkata,Sunrisers Hyderabad,Heinrich Klaasen,195,198,2026
+28,Lucknow Super Giants,Gujarat Titans,BRSABV Ekana Stadium,Lucknow,Gujarat Titans,Shubman Gill,180,181,2026
+29,Rajasthan Royals,Punjab Kings,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,Sanju Samson,203,196,2026
+30,Delhi Capitals,Royal Challengers Bengaluru,Arun Jaitley Stadium,Delhi,,,177,180,2026
